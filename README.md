@@ -4,7 +4,9 @@ Time worked on: From July 2016 - August 2016
 
 ## Projects
 
-The following **required** functionality is completed:
+**PLaylist and Song Manager** - In this project I implemented a system that manages song and playlist objects using an array data structure. The system would allow me to create song objects that could be placed in various playlists and could be managed. 
+
+
 
 
 
