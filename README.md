@@ -4,7 +4,7 @@ Time worked on: From July 2016 - August 2016
 
 ## Projects
 
-**PLaylist and Song Manager** - In this project I implemented a system that manages song and playlist objects using an array data structure. The system would allow me to create song objects that could be placed in various playlists and could be managed. 
+**Playlist and Song Manager** - In this project I implemented a system that manages song and playlist objects using an array data structure. The system would allow me to create song objects that could be placed in various playlists and could be managed. 
 
 **Department Store CMS** - This project used a linked list to implement a department store content management system. It allowed a user to maintain the inventory within a sample department store and manage their content.
 
